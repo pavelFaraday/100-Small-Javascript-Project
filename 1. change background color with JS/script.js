@@ -8,3 +8,6 @@ button.addEventListener('click', () => {
     let colorIndex= parseInt(Math.random()*colors.length);
     body.style.backgroundColor = colors[colorIndex];
 })
+
+
+
