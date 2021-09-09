@@ -5,3 +5,4 @@
 3. Display Quotes
 4. Pass The Message
 5. Counter
+6. background image slider
